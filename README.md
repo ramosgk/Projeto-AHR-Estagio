@@ -22,13 +22,3 @@ Um sistema web para registro e gestão de projetos, desenvolvido para a AHR Enge
 * **Servidor**: XAMPP
 
 ---
-
-### 📂 Estrutura de Pastas
-
-O projeto é organizado com uma arquitetura modular, separando as responsabilidades de cada componente.
-
-/projeto-ahr/
-├── public/                    # Ponto de entrada da aplicação.
-├── includes/                  # Arquivos de configuração.
-├── views/                     # As telas (interface de usuário).
-└── actions/                   # Lógica de processamento de dados.
